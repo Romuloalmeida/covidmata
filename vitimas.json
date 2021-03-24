@@ -1,44 +1,59 @@
 [
     {
       "nome": "Paulo Cesar Santos",
+      "foto": "paulo_cesar_santos.jpg",
       "profissao": "artista",
       "dataMorte": "2020-12-14",
-      "biografia_resumida": "Paulo César Santos, o Paulinho, vocalista do Roupa Nova, morreu no dia 14 de dezembro, segunda-feira. O cantor tinha 68 anos, e estava na internado na UTI do Hospital Copa D'or, no Rio de Janeiro. Paulinho foi hospitalizado em setembro no Complexo Hospitalar de Niterói, também no Rio, devido a complicações da covid-19."
+      "biografia_resumida": "Paulo César Santos, o Paulinho, vocalista do Roupa Nova, morreu no dia 14 de dezembro, segunda-feira. O cantor tinha 68 anos, e estava na internado na UTI do Hospital Copa D'or, no Rio de Janeiro. Paulinho foi hospitalizado em setembro no Complexo Hospitalar de Niterói, também no Rio, devido a complicações da covid-19.",
+      "fonte" : "https://www.nsctotal.com.br/noticias/famosos-morreram-covid-19"
     },
     {
         "nome": "Izael Caldeira",
+        "foto": "izael_caldeira.jpg",
         "profissao":"músico",
         "dataMorte": "2021-02-15",
-        "biografia_resumida":"Izael Caldeira, músico integrante do grupo Demônios da Garoa, havia completado 79 anos no dia 27 de janeiro, e morreu de covid-19 em 15 de fevereiro. O artista entrou no grupo há mais de vinte anos, em 1999. Izael tocava timba e cantava. Ele deixa cinco filhos, nove netos e um bisneto."
+        "biografia_resumida":"Izael Caldeira, músico integrante do grupo Demônios da Garoa, havia completado 79 anos no dia 27 de janeiro, e morreu de covid-19 em 15 de fevereiro. O artista entrou no grupo há mais de vinte anos, em 1999. Izael tocava timba e cantava. Ele deixa cinco filhos, nove netos e um bisneto.",
+        "fonte" : "https://www.nsctotal.com.br/noticias/famosos-morreram-covid-19"
     },
     {
         "nome": "Ygona Moura",
+        "foto": "ygona_moura.jpg",
         "profissao": "influenciadora digital",
         "dataMorte": "2021-01-27",
-        "biografia_resumida":"A influenciadora digital Ygona Moura morreu no dia 27 de janeiro, depois de passar dez dias internada na UTI. Ela foi diagnosticada com coronavírus depois de participar de uma festa no início do ano. Com mais de 200 mil seguidores no Instagram, a influencer causou polêmica ao, antes do diagnóstico, minimizar a doença e afirmar que estava em busca de mais festas."
+        "biografia_resumida":"A influenciadora digital Ygona Moura morreu no dia 27 de janeiro, depois de passar dez dias internada na UTI. Ela foi diagnosticada com coronavírus depois de participar de uma festa no início do ano. Com mais de 200 mil seguidores no Instagram, a influencer causou polêmica ao, antes do diagnóstico, minimizar a doença e afirmar que estava em busca de mais festas.",
+        "fonte" : "https://www.nsctotal.com.br/noticias/famosos-morreram-covid-19"
     },
     {
         "nome": "Genival Lacerda",
+        "foto": "genival_lacerda.jpg",
         "profissao":"artista,cantor,compositor",
         "dataMorte": "2021-01-07",
-        "biografia_resumida": "Genival Lacerda, cantor, compositor e ícone do forró, morreu no dia 7 de janeiro. O artista tinha 89 anos e estava internado desde 30 de novembro de 2020. Com 64 anos de carreira, Genival Lacerda era um símbolo da cultura nordestina. Em 2017, ele recebeu, no Palácio do Planalto, a medalha da Ordem do Mérito Cultural (OMC)."
+        "biografia_resumida": "Genival Lacerda, cantor, compositor e ícone do forró, morreu no dia 7 de janeiro. O artista tinha 89 anos e estava internado desde 30 de novembro de 2020. Com 64 anos de carreira, Genival Lacerda era um símbolo da cultura nordestina. Em 2017, ele recebeu, no Palácio do Planalto, a medalha da Ordem do Mérito Cultural (OMC).",
+        "fonte" : "https://www.nsctotal.com.br/noticias/famosos-morreram-covid-19"
+        
     },
     {
         "nome": "Matheus (Edson da Silva Rodrigues)",
+        "foto": "edson_silva_rodrigues.jpg",
         "profissao":"artista,cantor",
         "dataMorte": "2020-12-13",
-        "biografia_resumida": "O cantor Matheus, da dupla sertaneja Lucas e Matheus, morreu no dia 22 de dezembro. O músico tinha 57 anos, e estava internado desde o dia 13 de dezembro. O cantor, que vivia em Portugal, havia chegado ao Brasil apenas dois dias antes de apresentar os primeiros sintomas da doença."
+        "biografia_resumida": "O cantor Matheus, da dupla sertaneja Lucas e Matheus, morreu no dia 22 de dezembro. O músico tinha 57 anos, e estava internado desde o dia 13 de dezembro. O cantor, que vivia em Portugal, havia chegado ao Brasil apenas dois dias antes de apresentar os primeiros sintomas da doença.",
+        "fonte" : "https://www.nsctotal.com.br/noticias/famosos-morreram-covid-19"
     },
     {
         "nome": "Nicette Bruno",
+        "foto": "nicette_bruno.jpg",
         "profissao": "atriz",
         "dataMorte": "2020-12-20",
-        "biografia_resumida" : "A atriz Nicette Bruno, de 87 anos, morreu no dia 20 de dezembro, por complicações da Covid-19. Ela estava internada na Casa de Saúde São José, no Rio de Janeiro, desde 29 de novembro."
+        "biografia_resumida" : "A atriz Nicette Bruno, de 87 anos, morreu no dia 20 de dezembro, por complicações da Covid-19. Ela estava internada na Casa de Saúde São José, no Rio de Janeiro, desde 29 de novembro.",
+        "fonte" : "https://www.nsctotal.com.br/noticias/famosos-morreram-covid-19"    
     },
     {
         "nome": "Christina Rodrigues",
+        "foto": "christina_rodrigues.jpg",
         "profissao": "atriz",
         "dataMorte": "2020-12-17",
-        "biografia_resumida" : "A atriz Christina Rodrigues, 47 anos, morreu em 17 de dezembro por complicações do novo coronavírus. Estava internada no Rio de Janeiro aguardando uma vaga para ser transferida a um leito de CTI. Era conhecida por atuar em quadros de humor no Zorra Total, e também fez participações em diversas novelas, como: Malhação Sonhos, Beleza Pura e Êta Mundo Bom."
+        "biografia_resumida" : "A atriz Christina Rodrigues, 47 anos, morreu em 17 de dezembro por complicações do novo coronavírus. Estava internada no Rio de Janeiro aguardando uma vaga para ser transferida a um leito de CTI. Era conhecida por atuar em quadros de humor no Zorra Total, e também fez participações em diversas novelas, como: Malhação Sonhos, Beleza Pura e Êta Mundo Bom.",
+        "fonte" : "https://www.nsctotal.com.br/noticias/famosos-morreram-covid-19"
     }
   ]
